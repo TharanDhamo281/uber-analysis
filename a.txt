@@ -1,0 +1,51 @@
+🚖 Uber Rides Predictor - Machine Learning Web App 🚀
+
+I’m excited to share a recent project I completed as part of my journey into Data Science and Full-Stack Development!
+
+🔍 Project Overview: I built a Machine Learning web application that predicts the number of weekly Uber riders in a region, based on key influencing factors like:
+
+✅ Price per week
+
+✅ City population
+
+✅ Average monthly income
+
+✅ Average parking cost per month
+
+📊 Dataset: The dataset consisted of 27 rows of real-world-style data containing:
+
+Clean numerical values (no nulls 🙌)
+
+Features like Priceperweek, Population, Monthlyincome, and Averageparkingpermonth
+
+Target variable: Numberofweeklyriders
+
+🧠 ML Workflow:
+
+Performed exploratory data analysis to understand trends & correlations.
+
+Built and trained a regression model to predict the number of weekly riders.
+
+Evaluated model performance with suitable metrics.
+
+Deployed the model in a Flask Web Application with a clean, animated, responsive UI.
+
+💻 Tech Stack:
+
+Python
+
+Pandas, NumPy, Scikit-learn (for ML)
+
+Flask (for backend deployment)
+
+HTML, CSS (for UI/UX)
+
+✨ The UI is dynamic and responsive, complete with animations and gradient transitions to offer a real-world product feel.
+
+🔗 This project helped me understand the complete ML deployment lifecycle, from dataset analysis to a live working app!
+
+🧑‍💻 Excited to keep learning and sharing more. Feedback is always welcome!
+
+#MachineLearning #Flask #Python #DataScience #WebDevelopment #MLDeployment #UberPrediction #FullStack #AI
+
+http://127.0.0.1:5000/predict
